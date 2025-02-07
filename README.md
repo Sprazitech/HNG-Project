@@ -13,7 +13,7 @@ Seamlessly scalable and built for efficiency, this API brings number crunching t
 
 **Mathematical Analysis:** Because numbers deserve a full diagnostic report.
 
-Deploying Number Classification API Using AWS Lambda. Is your number a solo act or part of the composite crowd?
+**Deploying Number Classification API Using AWS Lambda.** Is your number a solo act or part of the composite crowd?
 
 **Perfect Number Check:** Finds out if your number is mathematically flawless.
 
@@ -61,7 +61,7 @@ Provides appropriate HTTP status codes.
 
 **2. Navigate into the Repo** - Get inside your new code home with cd <repo-name>.
 
-**3️. Create a "package" Folder **- This is where your dependencies will live. Think of it as their VIP lounge.
+**3️. Create a "package" Folder-** This is where your dependencies will live. Think of it as their VIP lounge.
 
 **4️. Move into the "package" Folder & Install Dependencies** - Step inside (cd package) and install requests using
 **pip install requests -t .**
