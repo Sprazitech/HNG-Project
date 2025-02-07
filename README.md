@@ -72,7 +72,7 @@ Provides appropriate HTTP status codes.
 
 **Compress-Archive -Path * -DestinationPath zippackage.zi**p
 
-**6. Create Your Lambda Function **- Head to the AWS Management Console, navigate to Lambda, and create a new function.
+**6. Create Your Lambda Function**- Head to the AWS Management Console, navigate to Lambda, and create a new function.
 
 **Don't forget to tweak the settings:**
 
@@ -112,7 +112,7 @@ Fast, Easy, and Scalable - With Function URLs, you get a no-fuss, low-latenc
 
 Bottom line? AWS Lambda Function URLs make API deployment faster, cheaper, and simpler while keeping performance intact.
 
-**Conclusion **
+**Conclusion**
 
 This project wasn't just about deploying an API - it was a deep dive into the real-world mechanics of AWS Lambda, FastAPI, and CORS configurations. Each challenge tackled brought new insights, making it a crucial milestone in my cloud journey.
 
